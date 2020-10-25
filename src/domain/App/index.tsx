@@ -1,24 +1,26 @@
 import React from "react";
-import logo from "../../assets/images/logo.svg";
-import "./index.scss";
+// import logo from "../../assets/images/logo.svg";
+// import "./index.scss";
 
 const App = (): JSX.Element => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+    <div className="ui container commments">
+      <div className="comment">
+        <a href="/" className="avatar">
+          <img src="" alt="avatar" />
         </a>
-      </header>
+        <div className="content">
+          <a href="/" className="author">
+            Sam
+          </a>
+          <div className="metadata">
+            <span className="date">Today at 6:00PM</span>
+          </div>
+          <div className="text">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
