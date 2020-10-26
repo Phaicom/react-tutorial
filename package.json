@@ -1,7 +1,8 @@
 {
-  "name": "react-template",
+  "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://phaicom.github.io/react-tutorial",
   "scripts": {
     "start": "BROWSER=none react-scripts start",
     "build": "react-scripts build",
