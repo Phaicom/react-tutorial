@@ -22,7 +22,8 @@ https://phaicom.github.io/react-tutorial
 |  ✅   | SCSS                                  |
 |  ✅   | eslint + prettier + stylelint + husky |
 |  ✅   | Domain folder structure               |
-|  ⬜️  | CI/CD                                 |
+|  ✅   | CI/CD with travis                     |
+|  ⬜️  | -                                     |
 
 ## Available Scripts
 
