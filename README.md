@@ -6,6 +6,18 @@ This project generated from [Phaicom/react-template](https://github.com/Phaicom/
 
 For practicing [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider
 
+## TODO
+
+| Done? | Name                                  |
+| :---: | ------------------------------------- |
+|  ✅   | Type Script                           |
+|  ✅   | Redux + Redux-thunk                   |
+|  ✅   | React-router                          |
+|  ✅   | SCSS                                  |
+|  ✅   | eslint + prettier + stylelint + husky |
+|  ✅   | Domain folder structure               |
+|  ⬜️  | CI/CD                                 |
+
 ## Available Scripts
 
 In the project directory, you can run:
