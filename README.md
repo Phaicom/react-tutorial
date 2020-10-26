@@ -1,10 +1,16 @@
 # React Tutorial
 
+[![Build Status](https://travis-ci.com/Phaicom/react-tutorial.svg?branch=main)](https://travis-ci.com/Phaicom/react-tutorial)
+
 This project generated from [Phaicom/react-template](https://github.com/Phaicom/react-template).
 
 ## Purpose
 
 For practicing [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider
+
+## Demo
+
+https://phaicom.github.io/react-tutorial
 
 ## TODO
 
