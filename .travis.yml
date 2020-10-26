@@ -8,11 +8,13 @@ cache:
     - build
     - .cache
 
-before_install:
-  - echo "Testing..."
-  - yarn test
+install:
+  - yarn
 
 script:
+  - echo "Testing..."
+  - yarn test
+  - echo "Building..."
   - yarn build # Generate static HTML files
 
 # Here is the magic part
