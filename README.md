@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project generated from [Phaicom/react-template](https://github.com/Phaicom/react-template).
+
+## Purpose
+
+For practicing [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) by Stephen Grider
 
 ## Available Scripts
 
