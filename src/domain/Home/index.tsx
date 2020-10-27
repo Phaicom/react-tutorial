@@ -5,7 +5,7 @@ class Home extends Component {
   public render(): JSX.Element {
     return (
       <div>
-        <img src={logo} alt="react logo" />
+        <img src={logo} width="250vw" alt="react logo" />
         <h1>React Tutorial</h1>
       </div>
     );
